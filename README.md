@@ -9,4 +9,6 @@
     .menu_list_item--active{}
     // 這段會被edge忽略
 ```
-所以改用單橫線-。
+  所以改用單橫線-。
+* font-size base on 16px; mobile 12px。
+* 通常使用rem 
